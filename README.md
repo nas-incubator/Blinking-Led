@@ -21,13 +21,13 @@ The LED connected to pin 2 should start blinking at a 1-second interval.
   3. Upload the code: Click the upload button (right arrow) in the Arduino IDE to compile and upload the code to your Arduino board.
 
 *Usage
-  Once the code is uploaded, the 8-bit LED module should start running the sequence described in the loop function. Each LED will light up in sequence with a delay of 500 milliseconds between each step.
+  Once the code is uploaded, pin 2 of the 8-bit LED module should start blinking as described in the loop function. The LED will light up in sequence with a delay of 500 milliseconds between each step.
 
 *Contributing
-  If you would like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions are welcome!
+  If you'd like to contribute to this project, you can fix the repository and submit a pull request. Contributions are welcome!
 
 *Contact
-  For any questions or suggestions, please feel free to open an issue or contact me at nasincubator@gmail.com.com or whatsapp us at +91 95990 63468/ 8920562814
+  For any questions or suggestions, please feel free to open an issue or contact me at nasincubator@gmail.com.com or WhatsApp us at +91 95990 63468/ 8920562814
 
-By following these instructions, you should be able to successfully control an 8-bit LED module with your Arduino board. Happy coding!
+By following these instructions, you should be able to successfully control an LED in an 8-bit LED module with your Arduino board. Happy coding!
 
